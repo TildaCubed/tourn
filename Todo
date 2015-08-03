@@ -1,4 +1,4 @@
-*Optimize main game engine
+*Continue to optimize main game engine
 *Add more arenas (?)
 *Balance game (does it need any more balancing?)
 *Add more damage reduction to perfect blocking (?)
@@ -6,3 +6,4 @@
 
 Finished:
 *Health bar =s do not disappear and instead turn a different color. Also change color to orange/black (Orioles w00t)
+*Add a lag cancelling input
