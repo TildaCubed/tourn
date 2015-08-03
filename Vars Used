@@ -1,0 +1,29 @@
+A: Developer flag
+B: Blocking flag
+C: Enemy movement flag
+D: Enemy difficulty setting
+E: Arena setting
+F: Garbage variable
+G: Your health
+H: Enemy health
+I: Enemy hit confirm var
+J: Subprogram pointer var
+K: getKey var
+L: Enemy subprogram pointer var
+m
+n
+o
+p
+q
+r
+S: Your hitstun/endlag var (if 4, no more frames of hitstun. if 0, 4 frames of hitstun, etc.)
+T: Enemy Hitstun/endlag var
+u
+v
+W: Position of enemy
+X: Position of you
+Y: Your hit confirm var
+Z: Temp var in menus; character choice from the character select screen and beyond. .1 if you quit from fighting arena or char select
+theta: For( loop garbage var
+Str0: Text clearer and line drawer
+Str1: Your character's head texture
